@@ -90,6 +90,7 @@ body {
     color: var(--verde);
     text-transform: uppercase;
 }
+
 .contador {
     display: flex;
     justify-content: center;
@@ -127,5 +128,4 @@ body {
     .botao:last-child {
         border-radius: 0 40px 0 0;
     }
-    
 }
